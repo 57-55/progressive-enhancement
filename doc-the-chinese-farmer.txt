@@ -1,6 +1,6 @@
-The Story of the Chinese Farmer
+﻿<h1> The Story of the Chinese Farmer </h1>
 
-Is it a good thing? Is that a bad thing? I don't know.
+<p> Is it a good thing? Is that a bad thing? I don't know. </p>
 May 11, 2016, Alexandre Gorius
 
 In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.
