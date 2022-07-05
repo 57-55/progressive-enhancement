@@ -1,0 +1,18 @@
+p {
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 3px;
+    font-size: 1,2 em;
+    color: #00008B;
+}
+a {
+    text-decoration: overline;
+    color: red;
+}
+
+a:hover {
+    color: white;
+    background-color: pink;
+}
+a:visited {
+    color: green;
+}
